@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/gangland/issues"
   },
-  "homepage": "https://github.com/AgtLucas/gangland#readme"
+  "homepage": "https://github.com/AgtLucas/gangland#readme",
+  "devDependencies": {
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  }
 }
